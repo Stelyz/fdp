@@ -1,0 +1,95 @@
+    1  nano /etc/default/keyboard 
+    2  init 6
+    3  bash exercicio
+    4  bash exercicio5.sh
+    5  bash exercicio5.sh
+    6  bash exercicio5.sh
+    7  bash exercicio5.sh
+    8  bash exercicio5.sh
+    9  exit
+   10  nano exercicio5.sh
+   11  nano exercicio5.sh
+   12  bash exercicio5.sh
+   13  nano exercicio5.sh
+   14  bash exercicio5.sh
+   15  nano exercicio5.sh
+   16  bash exercicio5.sh
+   17  nano exercicio5.sh
+   18  bash exercicio5.sh
+   19  nano exercicio5.sh
+   20  bash exercicio5.sh
+   21  nano exercicio5.sh
+   22  bash exercicio5.sh
+   23  nano exercicio5.sh
+   24  nano exercicio4.sh
+   25  bash exercicio4.sh
+   26  nano exercicio4.sh
+   27  bash exercicio4.sh
+   28  nano exercicio4.sh
+   29  bash exercicio4.sh
+   30  nano exercicio4.sh
+   31  bash exercicio4.sh
+   32  çexercicio4.sh
+   33  nano exercicio4.sh
+   34  bash exercicio4.sh
+   35  nano exercicio4.sh
+   36  nano exercicio4.sh
+   37  nano exercicio4.sh
+   38  bash exercicio4.sh
+   39  nano exercicio4.sh
+   40  bash exercicio4.sh
+   41  nano exercicio4.sh
+   42  bash exercicio4.sh
+   43  nano exercicio4.sh 
+   44  bash exercicio4.sh
+   45  nano exercicio4.sh
+   46  ls
+   47  nano exercicio4.sh
+   48  ls
+   49  ls
+   50  git
+   51  lsgit help
+   52  git help
+   53  git help
+   54  GITHUB
+   55  git
+   56  ls
+   57  git clone htt://github.com/Stelyz
+   58* 
+   59  git clone http://github.com/Stelyz/FDP
+   60  cp ../*.sh .
+   61  cp ../*.sh .
+   62  cd ..
+   63  cp ../*.sh .
+   64  cp /*.sh .
+   65  cd home
+   66  cd FDP
+   67  cd vagrant
+   68  cd FDP
+   69  cp /*.sh .
+   70  ls
+   71  bash login.sh
+   72  exit
+   73  bash exercicio5.sh
+   74  exit
+   75  cd FDP
+   76  ls
+   77  cp ../*.sh .
+   78  ls
+   79  git status
+   80  git add *
+   81  git status
+   82  ls
+   83* 
+   84  git status
+   85  git push origin master 
+   86  git push origin master 
+   87  git push origin master 
+   88  git push origin master 
+   89* 
+   90  git pull
+   91  git status
+   92  history
+   93  history
+   94  history | more
+   95  history >historico.txt
